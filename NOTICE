@@ -1,0 +1,13 @@
+Bubble Physics
+
+This product includes source code from the following sources which are covered under their respective licenses.
+
+XNA Educational Catalog
+-----------------------
+All content and source code downloaded from the official XNA Educational Catalog section are bound to the following license
+http://create.msdn.com/downloads/?id=15
+
+JellyPhysics (C++ library)
+----------------------
+The physics engine for Bubble Physics was derived from Walaber's JellyPhysics library.
+http://walaber.com/jello/JellyPhysics_CPP.rar
